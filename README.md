@@ -70,3 +70,6 @@ https://sb3-contrib.readthedocs.io/en/master/index.html
 <img src="https://github.com/SwamiKannan/CartPole/blob/main/PPO/render/model_performance/modelled.gif"
 </p>
 
+<sub>
+Credit for the CartPole introduction: https://gsurma.medium.com/cartpole-introduction-to-reinforcement-learning-ed0eb5b58288    
+    </sub>    
