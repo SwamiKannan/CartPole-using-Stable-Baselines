@@ -1,5 +1,16 @@
 # CartPole using Stable Baselines
 
+## Renders
+### Random
+<p align="center">
+<img src="https://github.com/SwamiKannan/CartPole/blob/main/PPO/render/base_performance/random.gif"
+</p>
+
+### Modelled
+<p align="center">
+<img src="https://github.com/SwamiKannan/CartPole/blob/main/PPO/render/model_performance/modelled.gif"
+</p>
+
 ## CartPole setup  
 
 ### Source code for environment:
