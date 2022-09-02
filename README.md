@@ -13,7 +13,23 @@ This is my first exploration of the Stable Baselines library from [Antonin Raffi
 <img src="https://github.com/SwamiKannan/CartPole/blob/main/PPO/render/model_performance/modelled.gif"
 </p>
 
-## CartPole setup  
+## CartPole Introduction
+
+## Setup
+Cartpole - known also as an Inverted Pendulum is a pendulum with a center of gravity above its pivot point. It’s unstable, but can be controlled by moving the pivot point under the center of mass. The goal is to keep the cartpole balanced by applying appropriate forces to a pivot point.
+
+<p align ="center>
+<img src ="https://github.com/SwamiKannan/CartPole/blob/main/cartpole_schema.png">
+
+    Violet square indicates a pivot point
+    Red and green arrows show possible horizontal forces that can be applied to a pivot point
+</p>
+    <i>A pole is attached by an un-actuated joint to a cart, which moves along a frictionless track. The system is controlled by applying a force of +1 or -1 to the cart. The pendulum starts upright, and the goal is to prevent it from falling over. A reward of +1 is provided for every timestep that the pole remains upright. The episode ends when the pole is more than 15 degrees from vertical, or the cart moves more than 2.4 units from the center.</i>
+
+Take a look at a video below with a real-life demonstration of a cartpole problem learning process.
+<p align ="center">
+[![Watch the video](https://img.youtube.com/vi/XiigTGKZfks/0.jpg)](https://www.youtube.com/watch?v=XiigTGKZfks&t=130s)
+</p>
 
 ### Source code for environment:
 https://github.com/openai/gym/blob/master/gym/envs/classic_control/cartpole.py
