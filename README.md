@@ -1,5 +1,7 @@
 # CartPole using Stable Baselines
 
+This is my first exploration of the Stable Baselines library from [Antonin Raffin](https://araffin.github.io/post/sb3/) based on [OpenAI Baseline](https://github.com/Stable-Baselines-Team/stable-baselines/blob/master/docs/index.rst)
+
 ## Renders
 ### Random
 <p align="center">
