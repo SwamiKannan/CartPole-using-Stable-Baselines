@@ -2,17 +2,6 @@
 
 This is my first exploration of the Stable Baselines library from [Antonin Raffin](https://araffin.github.io/post/sb3/) based on [OpenAI Baseline](https://github.com/Stable-Baselines-Team/stable-baselines/blob/master/docs/index.rst)
 
-## Renders
-### Random
-<p align="center">
-<img src="https://github.com/SwamiKannan/CartPole/blob/main/PPO/render/base_performance/random.gif"
-</p>
-
-### Modelled
-<p align="center">
-<img src="https://github.com/SwamiKannan/CartPole/blob/main/PPO/render/model_performance/modelled.gif"
-</p>
-
 ## CartPole Introduction
 
 ## Setup
@@ -69,3 +58,15 @@ https://sb3-contrib.readthedocs.io/en/master/index.html
 
 ## Environments:
 1. [Cartpole-v0](https://www.gymlibrary.ml/environments/classic_control/cart_pole/)  
+
+## Renders
+### Random
+<p align="center">
+<img src="https://github.com/SwamiKannan/CartPole/blob/main/PPO/render/base_performance/random.gif"
+</p>
+
+### Modelled
+<p align="center">
+<img src="https://github.com/SwamiKannan/CartPole/blob/main/PPO/render/model_performance/modelled.gif"
+</p>
+
