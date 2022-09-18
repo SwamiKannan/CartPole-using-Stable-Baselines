@@ -4,7 +4,6 @@ This is my first exploration of the Stable Baselines library from [Antonin Raffi
 
 ## CartPole Introduction
 
-## Setup
 Cartpole - known also as an Inverted Pendulum is a pendulum with a center of gravity above its pivot point. It’s unstable, but can be controlled by moving the pivot point under the center of mass. The goal is to keep the cartpole balanced by applying appropriate forces to a pivot point.
 <p align="center">
 <img src="https://github.com/SwamiKannan/CartPole/blob/main/cartpole_schema.png"
@@ -70,6 +69,8 @@ https://sb3-contrib.readthedocs.io/en/master/index.html
 <img src="https://github.com/SwamiKannan/CartPole/blob/main/PPO/render/model_performance/modelled.gif"
 </p>
 
+<p align="left">
 <sub>
 Credit for the CartPole introduction: https://gsurma.medium.com/cartpole-introduction-to-reinforcement-learning-ed0eb5b58288    
     </sub>    
+    </p>
